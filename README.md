@@ -182,8 +182,12 @@ flutter build ios --release
 5. **Accessibility**: Proper semantic labels and navigation support
 
 ## 📄 License
-
 This project is created  as part of the FamPay Flutter assignment.
+
+## 📱APK Download
+
+-You can directly install and test the app using the pre-built APK:
+[Download App](https://drive.google.com/drive/folders/1-njz5qKlfYKe-KtTMw1OmAWQSJfxt1l-?usp=drive_link)
 
 
 Built with ❤️ using Flutter !
