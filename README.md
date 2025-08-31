@@ -184,8 +184,11 @@ flutter build ios --release
 ## 📄 License
 This project is created  as part of the FamPay Flutter assignment.
 
-## 📱APK Download
 
+## Application demo video
+[Link to the video](https://github.com/Rushikeshbhavsar20/Fampay_assignment/blob/main/demo/fam_demo_vid.mp4)
+
+## 📱APK Download
 -You can directly install and test the app using the pre-built APK:
 [Download App](https://drive.google.com/drive/folders/1-njz5qKlfYKe-KtTMw1OmAWQSJfxt1l-?usp=drive_link)
 
