@@ -1,0 +1,4 @@
+#Sun Aug 31 14:36:37 IST 2025
+base.0=C\:\\Users\\rushi\\OneDrive\\Desktop\\fampay_ass - Copy\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,10 @@
+^D:\FAMPAY_ASS - COPY\BUILD\WINDOWS\X64\CMAKEFILES\094FCE34184741E53457695F1BDCD13F\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,16 @@
+<svg width="92" height="82" viewBox="0 0 92 82" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Main icon shape -->
+  <path d="M46 16.4L73.6 32.8L64.4 65.6L27.6 65.6L18.4 32.8L46 16.4Z" fill="#F6C58C"/>
+  
+  <!-- Decorative elements -->
+  <circle cx="27.6" cy="24.6" r="7.34" fill="#CF834D"/>
+  <circle cx="64.4" cy="24.6" r="7.34" fill="#CF834D"/>
+  <circle cx="46" cy="57.4" r="7.34" fill="#CF834D"/>
+  
+  <!-- Additional small elements -->
+  <circle cx="59.78" cy="33.03" r="6.59" fill="#F6C58C"/>
+  <circle cx="59.83" cy="10.76" r="7.16" fill="#F6C58C"/>
+  <circle cx="6.68" cy="20.91" r="18.17" fill="#F6C58C"/>
+  <circle cx="18.32" cy="26.26" r="12.35" fill="#F6C58C"/>
+  <circle cx="52.22" cy="10.76" r="10.935" fill="#F6C58C"/>
+</svg>

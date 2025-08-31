@@ -1,0 +1,13 @@
+D:/fampay_ass - Copy/build/windows/x64/CMakeFiles/INSTALL.dir
+D:/fampay_ass - Copy/build/windows/x64/CMakeFiles/ALL_BUILD.dir
+D:/fampay_ass - Copy/build/windows/x64/CMakeFiles/ZERO_CHECK.dir
+D:/fampay_ass - Copy/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+D:/fampay_ass - Copy/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_app.dir
+D:/fampay_ass - Copy/build/windows/x64/flutter/CMakeFiles/flutter_assemble.dir
+D:/fampay_ass - Copy/build/windows/x64/flutter/CMakeFiles/INSTALL.dir
+D:/fampay_ass - Copy/build/windows/x64/runner/CMakeFiles/fampay_assignment.dir
+D:/fampay_ass - Copy/build/windows/x64/runner/CMakeFiles/INSTALL.dir
+D:/fampay_ass - Copy/build/windows/x64/runner/CMakeFiles/ALL_BUILD.dir
+D:/fampay_ass - Copy/build/windows/x64/plugins/url_launcher_windows/CMakeFiles/url_launcher_windows_plugin.dir
+D:/fampay_ass - Copy/build/windows/x64/plugins/url_launcher_windows/CMakeFiles/INSTALL.dir
+D:/fampay_ass - Copy/build/windows/x64/plugins/url_launcher_windows/CMakeFiles/ALL_BUILD.dir
